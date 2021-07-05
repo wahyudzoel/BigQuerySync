@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "salespipelinedata",
+  "private_key_id": "9380b7acb81b8449a74fc3c5802deb0d10531dbf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwkl7Xeotd8nhw\nDJ1fPTyH8Lzzr5aTKt7FbFGOF06zx2SB7yTq9dGZDGScoMj65zGIZyuT6KesORFs\nOvAabkI0Ra78FcJrzV1V0la1XO1HxQmbf9/smnIyiexmwd/gL3GO55lW26Wb7PO/\nh2XhY3ipjJqxihF9VMMGJvJfgBJ4QDdjPOW582/BmSamBLLDv/EeLQXmEOJlb1xG\nekQa6EBdZ9B2LoCtvPv/AiKUsZeOXpqDzZQK/XBHWlMdC/tQ7fJ7PuALxo1eiROR\nYhUaiSQ9wVb1+9SbvvCWCKYAHvFpBuV0P3qXeUokUDyjJiiLekz7VIDC0rxOUf08\n3XkbGVExAgMBAAECggEAJEU45rX1RWvemhO5SvxLABivU7ZcrafngXHd8dxvTgY2\nKuurL3ml37S4QSVVC5csqVqaDMTElp/VaKBVvHQsNM0gpAc7PAZANzYhGhm34x+C\nOPdEUfeq4B9NWJFYMdbFEqgX60vswbIjotMHFkym11s61p/oNlDQS+X5sSzffmRI\nxYqdvj8cS3sRpsjkzJ2BEi2B2KIJe+zXissCecxKsdcYuqmAIwOu2Q2HJFitrcsJ\nJ+VY1IZHUBRdc7vpISXVvsUPfW4bT0GuKXdBTVmlCb0qkYt8yoi4Be+L2COeh9Rn\nEvG+uKuvJqrECqgaoApI+GwgSkVO6aos4UXDBG/yHQKBgQDqxJdK/xib5ARmvuFO\no6U6MbJvwCPxZ+4KH7StW3yFFSQ2nf0auCQ4qaGIvoUN07Z9oLn+Vw/dVpobQ6I+\nEKwHon2Q5jwpRjoSfSoF63QhH9gUMFffwDNkvbi663HEAUg/56ricMrrnuPrATJg\nQT6mslQLSWLS2hwu7dgdhGJoZQKBgQDAimgGVdgG1PIQZW7dVE/onTyz6k177EGO\nP9f3tIY0+To6vDEshVVpFUuaeKa5yJAbHqxLWPF4e2/ZwWrTZiD5VIta/m6bzio1\npD1BUC5A42KXmpAmR7alL4/Ija59snXcB03141PoeMnZvMMjdJHDkOoLWOYPeiuJ\nTNOdlJhK3QKBgQCe0kBHzCupyqfvmlJyEONGazh7wVCPj+/JiYmBfdLPdW36RQdl\nfA2FB7zv9XOt1vwuIP2ywtNIub2nlCm+MykuQQ8RZ7Bre8btmx9CwfbeMdzMS6gn\nBq++B1thmMZuAzANi3xflE6y99rYsQaTd5Aa1alluU/RtRw740vBLD4mwQKBgA6M\nZr/TzLb3cDL89xuSO1eASg3uLlymxW1SNadp5JosGtJFVhHfIU0HZucNJsvy87CY\n6LvoxJYt/Y2ep8vBc8xjLwR5JTJwqY/UESzWOih9Bf4el7XMxWhF579ntT+aNH2j\nr6hcvQJb3iSttrD/JeR5FrY0yW1x9cgyHetSRw+hAoGBAKUSa/X5HNcl6XTxpB2q\nQlYqkpquTEvdQa78G3tSaTUCBp/cmJ2VB00OgN+lmYPnKY7K/NpXRZ/Lg3Ka4oBI\nYYmDBQfFRnV+qruRq59U8aewh4dhZtVcbjfHyjzfqsqMAk5km6zSk2c5iZffoxra\nBSXkxcyOAC3Tnj3wcQeXZEw4\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-bigquery-sa@salespipelinedata.iam.gserviceaccount.com",
+  "client_id": "116472831418256484296",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-bigquery-sa%40salespipelinedata.iam.gserviceaccount.com"
+}
